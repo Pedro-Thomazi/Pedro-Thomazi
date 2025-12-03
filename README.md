@@ -3,6 +3,8 @@
 - 🔭 Desenvolvedor Full-stack
 - 🌱 Estudando Java
 
+Sou um desenvolvedor Full-Stack apaixonado por criar soluções completas — do backend ao frontend. Tenho experiência prática em Java (Spring Boot), Node.js, React.js, TypeScript, SQL, MongoDB e arquitetura de software.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
