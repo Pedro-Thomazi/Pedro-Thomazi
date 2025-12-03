@@ -5,6 +5,10 @@
 
 Sou um desenvolvedor Full-Stack apaixonado por criar soluções completas — do backend ao frontend. Tenho experiência prática em Java (Spring Boot), Node.js, React.js, TypeScript, SQL, MongoDB e arquitetura de software.
 
+Gosto de transformar ideias em aplicações reais, com foco em boas práticas, organização, código limpo e uma experiência fluida para o usuário. Já desenvolvi projetos como plataformas de aluguel (RentHub), redes sociais (MyGram) e sistemas de gestão e integrações.
+
+Também utilizo metodologias ágeis como SCRUM e mantenho meus projetos em constante evolução.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
